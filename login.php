@@ -98,6 +98,10 @@
                <div class="form-group">
                  <input type="submit" name="login" class="btn btn-info" value="Login"  />
                </div>
+               <div align="center">
+                 <a href="register.php">Register</a>
+               </div>
+
             </form>
          </div>
       </div>
